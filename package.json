@@ -1,0 +1,14 @@
+{
+	"dependencies": {
+		"flux": "latest",
+    	"react": "latest",
+    	"react-router": "latest",
+		"webpack": "latest",
+		"jsx-loader": "latest",
+		"babel-loader": "latest",
+	    "url-loader": "latest",
+	    "style-loader": "latest",
+	    "css-loader": "latest",
+	    "react-dom": "latest"
+	}
+}
